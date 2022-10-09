@@ -38,10 +38,10 @@
 
 ### Browser
 
-- **Heap Buffer Overflow (OOB Wrtie) in Google Chrome V8 Internationalization :** **[CVE-2022-1638](https://chromereleases.googleblog.com/2022/05/stable-channel-update-for-desktop_10.html)**
+- **[$5,000] Heap Buffer Overflow (OOB Wrtie) in Google Chrome V8 Internationalization :** **[CVE-2022-1638](https://chromereleases.googleblog.com/2022/05/stable-channel-update-for-desktop_10.html)**
 - **Out-Of-Bounds Write in Apple Safari ICU :** **[CVE-2022-32787](https://support.apple.com/ko-kr/HT213346)**
 - **UI Spoofing in Apple Safari :** **[CVE-2022-32816](https://support.apple.com/ko-kr/HT213346)**
-- **Heap Buffer Overflow (OOB Read) in Google Chrome ANGLE:** **[Chrome BETA, Issue 1335688](https://bugs.chromium.org/p/chromium/issues/detail?id=1335688)**
+- **[$5,000] Heap Buffer Overflow (OOB Read) in Google Chrome ANGLE:** **[Chrome BETA, Issue 1335688](https://bugs.chromium.org/p/chromium/issues/detail?id=1335688)**
 
 ### Virtualization
 
