@@ -46,6 +46,7 @@
 ### Virtualization
 
 - **Denial of Service in Oracle VirtualBox : [CVE-2021-2086](https://www.oracle.com/security-alerts/cpujan2021.html), [CVE-2021-35540](https://www.oracle.com/security-alerts/cpuoct2021.html)**
+- **Remote Code Execution in Oracle VirtualBox : [CVE-2022-39421](https://www.oracle.com/security-alerts/cpuoct2022.html)**
 
 ### Enterprise Software
 
