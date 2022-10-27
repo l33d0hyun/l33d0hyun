@@ -43,8 +43,8 @@
 - **UI Spoofing in Apple Safari :** **[CVE-2022-32816](https://support.apple.com/ko-kr/HT213346)**
 - **[$5,000] Heap Buffer Overflow (OOB Read) in Google Chrome ANGLE:** **[Chrome BETA, Issue 1335688](https://bugs.chromium.org/p/chromium/issues/detail?id=1335688)**
 - **UI Spoofing in Apple Safari :** **[CVE-2022-42799](https://support.apple.com/ko-kr/HT213495)**
-- **Type confusion in Apple Safari :** **[CVE-2022-42823](https://support.apple.com/ko-kr/HT213495)**
-- **Same-Origin Policy Bypass in Apple Safari :** **[CVE-2022-42824](https://support.apple.com/ko-kr/HT213495)**
+- **Type confusion in Apple Safari JavaScriptCore :** **[CVE-2022-42823](https://support.apple.com/ko-kr/HT213495)**
+- **Same-Origin Policy Bypass in Apple Safari DataTransfer:** **[CVE-2022-42824](https://support.apple.com/ko-kr/HT213495)**
 
 ### Virtualization
 
