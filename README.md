@@ -1,6 +1,7 @@
 ## [KITRI "BEST OF THE BEST"](https://kitribob.kr/) 9th Vulnerability Analysis 
 - [(Project. VirtualBoBs : Virtualization Software Bug Hunting)](https://github.com/VirtualBoBs)
 - Project Leader. Unreal Engine Bug Hunting (10th)
+- Project Leader. Apple Safari Bug Hunting [A.K.A ApplePIE] (11th)
 
 ## Work
 
