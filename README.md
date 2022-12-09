@@ -25,7 +25,7 @@
 - LG Electronics Vulnerability Report Letter of Appreciation
 - [Microsoft 2022 Q1 TOP 100 Security Researcher](https://msrc.microsoft.com/leaderboard)
 - [Mozilla 2022 Q1 Firefox Bug Bounty Rewards Hall of Fame](https://www.mozilla.org/en-US/security/bug-bounty/hall-of-fame/)
-- [Apple Web Service Security Acknowledgements Hall of Fame](https://support.apple.com/en-us/HT201536)
+- [Apple Web Service Security Acknowledgements Hall of Fame](https://support.apple.com/en-us/HT201536) (November. 2022)
 
 ## CTF
 
