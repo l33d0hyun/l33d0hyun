@@ -47,6 +47,7 @@
 - **UI Spoofing in Apple Safari :** **[CVE-2022-42799](https://support.apple.com/ko-kr/HT213495)**
 - **Type confusion in Apple Safari JavaScriptCore :** **[CVE-2022-42823](https://support.apple.com/ko-kr/HT213495)**
 - **Same-Origin Policy Bypass in Apple Safari DataTransfer:** **[CVE-2022-42824](https://support.apple.com/ko-kr/HT213495)**
+- **Patch Bypass CVE-2022-42824 > Same-Origin Policy Bypass in Apple Safari DataTransfer:** **[CVE-2022-46698](https://support.apple.com/ko-kr/HT213537)**
 
 ### Virtualization
 
