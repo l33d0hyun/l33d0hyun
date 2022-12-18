@@ -34,6 +34,7 @@
 - The Hacking Championship Junior '더 해킹 챔피온십 주니어' 2019 Finals
 - CyberOC '사이버작전경연대회' 2020 Finals
 - Information Security Olympiad '정보보호올림피아드' Finals 2020 (Bronze Prize) 🥉
+- VolgaCTF 2021 Finals
 - HackTheon '전국 대학생 사이버보안 경진대회' 2022 (3rd prize) 🥉
 
 ## Security Report 
