@@ -25,7 +25,7 @@
 - LG Electronics Vulnerability Report Letter of Appreciation
 - [Microsoft 2022 Q1 TOP 100 Security Researcher](https://msrc.microsoft.com/leaderboard)
 - [Mozilla 2022 Q1 Firefox Bug Bounty Rewards Hall of Fame](https://www.mozilla.org/en-US/security/bug-bounty/hall-of-fame/)
-- [Apple Web Service Security Acknowledgements Hall of Fame](https://support.apple.com/en-us/HT201536) (November. 2022)
+- [[$10,000 Donated] - Apple Web Service Security Acknowledgements Hall of Fame](https://support.apple.com/en-us/HT201536) (November. 2022)
 
 ## CTF
 
@@ -48,7 +48,7 @@
 - **UI Spoofing in Apple Safari :** **[CVE-2022-42799](https://support.apple.com/ko-kr/HT213495)**
 - **Type confusion in Apple Safari JavaScriptCore :** **[CVE-2022-42823](https://support.apple.com/ko-kr/HT213495)**
 - **Same-Origin Policy Bypass in Apple Safari DataTransfer:** **[CVE-2022-42824](https://support.apple.com/ko-kr/HT213495)**
-- **Patch Bypass CVE-2022-42824 > Same-Origin Policy Bypass in Apple Safari DataTransfer:** **[CVE-2022-46698](https://support.apple.com/ko-kr/HT213537)**
+- **Same-Origin Policy Bypass in Apple Safari DataTransfer:** **[CVE-2022-46698](https://support.apple.com/ko-kr/HT213537)**
 - **Download Protections Bypass in Mozilla Firefox :** **[CVE-2022-46875](https://www.mozilla.org/en-US/security/advisories/mfsa2022-51/#CVE-2022-46875)**
 
 ### Virtualization
