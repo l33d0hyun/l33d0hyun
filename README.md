@@ -2,8 +2,6 @@
 - [(Project. VirtualBoBs : Virtualization Software Bug Hunting)](https://github.com/VirtualBoBs)
 - Project Leader. Unreal Engine Bug Hunting (10th)
 - Project Leader. Apple Safari Bug Hunting [A.K.A ApplePIE] (11th)
-  - **Type Confusion in Apple Safari Streams API:** **[CVE-2023-23517](https://support.apple.com/ko-kr/HT213600)**
-  - **Type Confusion in Apple Safari Streams API:** **[CVE-2023-23518](https://support.apple.com/ko-kr/HT213600)**
 
 ## Work
 
@@ -52,6 +50,8 @@
 - **Same-Origin Policy Bypass in Apple Safari DataTransfer:** **[CVE-2022-42824](https://support.apple.com/ko-kr/HT213495)**
 - **Same-Origin Policy Bypass in Apple Safari DataTransfer:** **[CVE-2022-46698](https://support.apple.com/ko-kr/HT213537)**
 - **Download Protections Bypass in Mozilla Firefox :** **[CVE-2022-46875](https://www.mozilla.org/en-US/security/advisories/mfsa2022-51/#CVE-2022-46875)**
+- **Type Confusion in Apple Safari Streams API:** **[CVE-2023-23517](https://support.apple.com/ko-kr/HT213600)**
+- **Type Confusion in Apple Safari Streams API:** **[CVE-2023-23518](https://support.apple.com/ko-kr/HT213600)**
 
 ### Virtualization
 
