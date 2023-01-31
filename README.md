@@ -2,8 +2,6 @@
 - [(Project. VirtualBoBs : Virtualization Software Bug Hunting)](https://github.com/VirtualBoBs)
 - Project Leader. Unreal Engine Bug Hunting (10th)
 - Project Leader. Apple Safari Bug Hunting [A.K.A ApplePIE] (11th)
-  - **Type Confusion in Apple Safari Streams API:** **[CVE-2023-23517](https://support.apple.com/ko-kr/HT213600)**
-  - **Type Confusion in Apple Safari Streams API:** **[CVE-2023-23518](https://support.apple.com/ko-kr/HT213600)**
 
 ## Work
 
