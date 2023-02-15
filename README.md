@@ -50,8 +50,8 @@
 - **Same-Origin Policy Bypass in Apple Safari DataTransfer :** **[CVE-2022-42824](https://support.apple.com/ko-kr/HT213495)**
 - **Same-Origin Policy Bypass in Apple Safari DataTransfer :** **[CVE-2022-46698](https://support.apple.com/ko-kr/HT213537)**
 - **Download Protections Bypass in Mozilla Firefox :** **[CVE-2022-46875](https://www.mozilla.org/en-US/security/advisories/mfsa2022-51/#CVE-2022-46875)**
-- **[ApplePIE] Type Confusion in Apple Safari StreamAPI :** **[CVE-2023-23517](https://support.apple.com/ko-kr/HT213600)**
-- **[ApplePIE] Type Confusion in Apple Safari StreamAPI :** **[CVE-2023-23517](https://support.apple.com/ko-kr/HT213600)**
+- **Type Confusion in Apple Safari StreamAPI :** **[CVE-2023-23517](https://support.apple.com/ko-kr/HT213600)**, [ApplePIE] 
+- **Type Confusion in Apple Safari StreamAPI :** **[CVE-2023-23517](https://support.apple.com/ko-kr/HT213600)**, [ApplePIE] 
 - **Same-Origin Policy Bypass in Mozilla Firefox :** **[CVE-2023-25741](https://www.mozilla.org/en-US/security/advisories/mfsa2023-05/#CVE-2023-25741)**
 
 
