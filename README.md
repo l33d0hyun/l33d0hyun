@@ -50,6 +50,7 @@
 - **Same-Origin Policy Bypass in Apple Safari DataTransfer:** **[CVE-2022-42824](https://support.apple.com/ko-kr/HT213495)**
 - **Same-Origin Policy Bypass in Apple Safari DataTransfer:** **[CVE-2022-46698](https://support.apple.com/ko-kr/HT213537)**
 - **Download Protections Bypass in Mozilla Firefox :** **[CVE-2022-46875](https://www.mozilla.org/en-US/security/advisories/mfsa2022-51/#CVE-2022-46875)**
+- **Same-Origin Policy Bypass in Mozilla Firefox :** **[CVE-2023-25741](https://www.mozilla.org/en-US/security/advisories/mfsa2023-05/#CVE-2023-25741)**
 
 
 ### Virtualization
@@ -68,6 +69,7 @@
 
 - **LPE in** **McAfee Product : [CVE-2022-0129](https://service.mcafee.com/?articleId=TS103243&page=shell&shell=article-view)**
 - **LPE in Trend Micro** **Product : [CVE-2022-26319](https://success.trendmicro.com/dcx/s/solution/000290531?language=en_US), [CVE-2022-26337](https://helpcenter.trendmicro.com/en-us/article/TMKA-10954)**
+- **RCE in Trend Micro Apex One : [CVE-2023-25143](https://success.trendmicro.com/dcx/s/solution/000292209?language=en_US)**
 
 ### VPN
 
