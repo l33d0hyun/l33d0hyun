@@ -53,6 +53,7 @@
 - **Type Confusion in Apple Safari StreamAPI :** **[CVE-2023-23517](https://support.apple.com/ko-kr/HT213600)**, [ApplePIE] 
 - **Type Confusion in Apple Safari StreamAPI :** **[CVE-2023-23518](https://support.apple.com/ko-kr/HT213600)**, [ApplePIE] 
 - **Same-Origin Policy Bypass in Mozilla Firefox :** **[CVE-2023-25741](https://www.mozilla.org/en-US/security/advisories/mfsa2023-05/#CVE-2023-25741)**
+- **Out-Of-Bounds Access in Mozilla Firefox :** **[CVE-2023-29531](https://www.mozilla.org/en-US/security/advisories/mfsa2023-13/#CVE-2023-29531)**
 
 
 ### Virtualization
