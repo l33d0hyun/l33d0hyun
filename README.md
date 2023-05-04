@@ -55,6 +55,7 @@
 - **Same-Origin Policy Bypass in Mozilla Firefox :** **[CVE-2023-25741](https://www.mozilla.org/en-US/security/advisories/mfsa2023-05/#CVE-2023-25741)**
 - **Out-Of-Bounds Access in Mozilla Firefox :** **[CVE-2023-29531](https://www.mozilla.org/en-US/security/advisories/mfsa2023-13/#CVE-2023-29531)**
 - **Use-After-Free in Apple Safari Web Inspector :** **[CVE-2023-28201](https://support.apple.com/en-us/HT213671)**
+- **Insufficient policy enforcement in Google Chrome Safe Browsing:** **[Issue 1343317](https://bugs.chromium.org/p/chromium/issues/detail?id=1343317)**
 
 ### Virtualization
 
