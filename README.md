@@ -5,7 +5,7 @@
 
 ## Work
 
-- **Security Researcher @ [SSD Labs](https://ssd-disclosure.com/) (2022.05 ~ Now)**
+- **Security Researcher @ [SSD Labs](https://ssd-disclosure.com/) (2022.05 ~ 2023.06)**
 - **Undergraduate Student Researcher @ [DNSLab, Korea University](https://dnslab.korea.ac.kr/) (2021.08 ~ Now)**
 
 ## Research
