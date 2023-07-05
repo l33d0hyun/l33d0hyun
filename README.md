@@ -14,12 +14,11 @@
 - [DNSLab, Korea University](https://dnslab.korea.ac.kr/)
 
 ## Interests
-- Browser, Virtualization, Kernel N-Day Research
+- Browser, Kernel, iOS N-Day Research
 
 ## Contact
 
 - Personal E-Mail : `pwnable@korea.ac.kr`
-- Work E-Mail : `dohyunl@ssd-disclosure.com`
 
 ## Awards
 - LG Electronics Vulnerability Report Letter of Appreciation
