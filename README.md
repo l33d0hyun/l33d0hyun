@@ -57,6 +57,8 @@
 - **Use-After-Free in Apple Safari Web Inspector :** **[CVE-2023-28201](https://support.apple.com/en-us/HT213671)**
 - **Insufficient policy enforcement in Google Chrome Safe Browsing:** **[Issue 1343317](https://bugs.chromium.org/p/chromium/issues/detail?id=1343317)**
 - **Buffer Overflow in Mozilla Firefox :** **[CVE-2023-4582](https://www.mozilla.org/en-US/security/advisories/mfsa2023-34/#CVE-2023-4582)**
+- **Use-After-Free in Apple Safari GPU :** **[CVE-2023-39434](https://support.apple.com/en-us/HT213940)**
+- **Information Disclosure in Apple libxslt (Works in Safari) :** **[CVE-2023-40403](https://support.apple.com/en-us/HT213940)**
 
 ### Virtualization
 
