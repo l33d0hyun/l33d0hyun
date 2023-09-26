@@ -5,7 +5,7 @@
 
 ## Work
 
-- **Vulnerability Researcher @ [PK Security](https://pksecurity.io/) (2023.07 ~ Now)** 
+- **Vulnerability Researcher @ [PK Security](https://pksecurity.io/) (2023.07 ~ 2023.09)** 
 - **Security Researcher @ [SSD Labs](https://ssd-disclosure.com/) (2022.05 ~ 2023.06)**
 - **Undergraduate Student Researcher @ [DNSLab, Korea University](https://dnslab.korea.ac.kr/) (2021.08 ~ Now)**
 
