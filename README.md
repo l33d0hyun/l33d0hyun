@@ -59,6 +59,7 @@
 - **Buffer Overflow in Mozilla Firefox :** **[CVE-2023-4582](https://www.mozilla.org/en-US/security/advisories/mfsa2023-34/#CVE-2023-4582)**
 - **Use-After-Free in Apple Safari GPU :** **[CVE-2023-39434](https://support.apple.com/en-us/HT213940)**
 - **Information Disclosure in Apple libxslt (Works in Safari) :** **[CVE-2023-40403](https://support.apple.com/en-us/HT213940)**
+- **Double-Free in Google Chrome SwiftShader :** **[ZDI-23-1583](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)** 
 
 ### Virtualization
 
