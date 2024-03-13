@@ -63,6 +63,10 @@
 - **Double-Free in Google Chrome SwiftShader :** **[ZDI-23-1583](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)**
 - **Heap-Buffer-Overflow Sandbox Escape in Mozilla Firefox WebGL :** **[CVE-2023-6856](https://www.mozilla.org/en-US/security/advisories/mfsa2023-56/#CVE-2023-6856)**
 
+### Mobile
+
+- **Heap Buffer Overflow in Apple CoreGraphics (ImageIO, 0-Click) :** **[CVE-2024-23286](https://support.apple.com/en-us/HT214081)**
+
 ### Virtualization
 
 - **Denial of Service in Oracle VirtualBox : [CVE-2021-2086](https://www.oracle.com/security-alerts/cpujan2021.html), [CVE-2021-35540](https://www.oracle.com/security-alerts/cpuoct2021.html)**
