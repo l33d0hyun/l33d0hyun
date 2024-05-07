@@ -65,7 +65,9 @@
 
 ### Mobile
 
-- **Heap Buffer Overflow in Apple CoreGraphics (ImageIO, 0-Click) :** **[CVE-2024-23286](https://support.apple.com/en-us/HT214081)**
+- **Heap Buffer Overflow in Apple CoreGraphics :** **[CVE-2024-23286](https://support.apple.com/en-us/HT214081)**
+- **Use-After-Free in Samsung Galaxy SveService :** **[SVE-2024-0092(CVE-2024-20861)](https://security.samsungmobile.com/securityUpdate.smsb)**
+- **Out-Of-Bounds Write in Samsung Galaxy SveService :** **[SVE-2024-0096(CVE-2024-20862)](https://security.samsungmobile.com/securityUpdate.smsb)**
 
 ### Virtualization
 
