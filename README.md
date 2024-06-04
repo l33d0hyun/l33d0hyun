@@ -28,16 +28,6 @@
 - [[$10,000 Donated] - Apple Web Service Security Acknowledgements Hall of Fame](https://support.apple.com/ko-kr/HT213636) - November. 2022
 - [Apple Web Service Security Acknowledgements Hall of Fame](https://support.apple.com/en-us/HT201536) - January. 2024
 
-## CTF
-
-- CyberOC '사이버작전경연대회' 2019 Finals
-- Timisoara CTF 2019 Finals
-- The Hacking Championship Junior '더 해킹 챔피온십 주니어' 2019 Finals
-- CyberOC '사이버작전경연대회' 2020 Finals
-- Information Security Olympiad '정보보호올림피아드' Finals 2020 (Bronze Prize) 🥉
-- VolgaCTF 2021 Finals
-- HackTheon '전국 대학생 사이버보안 경진대회' 2022 (3rd prize) 🥉
-
 ## Security Report 
 
 ### Browser
@@ -68,6 +58,7 @@
 - **Heap Buffer Overflow in Apple CoreGraphics :** **[CVE-2024-23286](https://support.apple.com/en-us/HT214081)**
 - **Use-After-Free in Samsung Galaxy SveService :** **[SVE-2024-0092(CVE-2024-20861)](https://security.samsungmobile.com/securityUpdate.smsb)**
 - **Out-Of-Bounds Write in Samsung Galaxy SveService :** **[SVE-2024-0096(CVE-2024-20862)](https://security.samsungmobile.com/securityUpdate.smsb)**
+- **Improper input validation vulenrability in frcmc-service** **[Severity Low, Bounty Awarded]**
 
 ### Virtualization
 
