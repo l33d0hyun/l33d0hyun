@@ -58,7 +58,8 @@
 - **Heap Buffer Overflow in Apple CoreGraphics :** **[CVE-2024-23286](https://support.apple.com/en-us/HT214081)**
 - **Use-After-Free in Samsung Galaxy SveService :** **[SVE-2024-0092(CVE-2024-20861)](https://security.samsungmobile.com/securityUpdate.smsb)**
 - **Out-Of-Bounds Write in Samsung Galaxy SveService :** **[SVE-2024-0096(CVE-2024-20862)](https://security.samsungmobile.com/securityUpdate.smsb)**
-- **Improper input validation vulenrability in frcmc-service** **[Severity Low, Bounty Awarded]**
+- **Improper input validation in frcmc-service :** **[Severity Low, Bounty Awarded]**
+- **Improper Input Validation lead to initiate FaceTime calls without user authorization in Apple iOS Mail :** **[CVE-2024-23282](https://support.apple.com/en-us/HT214101)**
 
 ### Virtualization
 
