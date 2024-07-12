@@ -27,6 +27,7 @@
 - [Mozilla 2022 Q1 Firefox Bug Bounty Rewards Hall of Fame](https://www.mozilla.org/en-US/security/bug-bounty/hall-of-fame/)
 - [[$10,000 Donated] - Apple Web Service Security Acknowledgements Hall of Fame](https://support.apple.com/ko-kr/HT213636) - November. 2022
 - [Apple Web Service Security Acknowledgements Hall of Fame](https://support.apple.com/en-us/HT201536) - January. 2024
+- [Apple Web Service Security Acknowledgements Hall of Fame](https://support.apple.com/en-us/HT201536) - June. 2024
 
 ## Security Report 
 
