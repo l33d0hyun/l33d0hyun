@@ -2,6 +2,8 @@
 - [(Project. VirtualBoBs : Virtualization Software Bug Hunting)](https://github.com/VirtualBoBs)
 - Project Leader. Unreal Engine Bug Hunting (10th)
 - Project Leader. Apple Safari Bug Hunting [A.K.A ApplePIE] (11th)
+- Project Leader. What The Fuzz [BOB 12th]
+- Project Leader. Zero Hour [White Hat School 1st]
 
 ## Work
 
