@@ -1,23 +1,27 @@
 ## [KITRI "BEST OF THE BEST"](https://kitribob.kr/) 9th Vulnerability Analysis 
 - [(Project. VirtualBoBs : Virtualization Software Bug Hunting)](https://github.com/VirtualBoBs)
-- Project Leader. Unreal Engine Bug Hunting (10th)
-- Project Leader. Apple Safari Bug Hunting [A.K.A ApplePIE] (11th)
-- Project Leader. What The Fuzz [BOB 12th]
-- Project Leader. Zero Hour [White Hat School 1st]
+- Project Leader. Unreal Engine Bug Hunting (BOB 10th)
+- Project Leader. Apple Safari Bug Hunting [A.K.A ApplePIE] (BOB 11th)
+- Project Leader. What The Fuzz (BOB 12th)
+- Project Leader. Zero Hour (White Hat School 1st)
+- Project Leader. Office Application Vulnerability Analysis [A.K.A bObffice] (BOB 12th)
 
 ## Work
 
-- **Vulnerability Researcher @ [PK Security](https://pksecurity.io/) (2023.07 ~ 2023.09)** 
+- **Security Researcher @ ??? (?? ~ ??)**
+- **Security Researcher @ [PK Security](https://pksecurity.io/) (2023.07 ~ 2023.09)** 
 - **Security Researcher @ [SSD Labs](https://ssd-disclosure.com/) (2022.05 ~ 2023.06)**
 - **Undergraduate Student Researcher @ [DNSLab, Korea University](https://dnslab.korea.ac.kr/) (2021.08 ~ Now)**
 
 ## Research
 
-- Zero Day Execution([@Zerocution](https://twitter.com/Zerocution))
-- [DNSLab, Korea University](https://dnslab.korea.ac.kr/)
+- **Zero Day Execution([@Zerocution](https://twitter.com/Zerocution))**
+- **Undergraduate Researcher** **@** [**DNSLab, Korea University](https://dnslab.korea.ac.kr/) (2021.08 ~ 2023.02)**
+- **Undergraduate Researcher @ [CCS, Korea University](https://ccs.korea.ac.kr/) (2023.03 ~ ??)**
 
 ## Interests
-- Browser, Kernel, iOS N-Day Research
+- N-Day Research / Academic Research
+  - Browser, iOS, Android, Windows/Linux Kernel
 
 ## Contact
 
@@ -52,7 +56,7 @@
 - **Insufficient policy enforcement in Google Chrome Safe Browsing:** **[Issue 1343317](https://bugs.chromium.org/p/chromium/issues/detail?id=1343317)**
 - **Buffer Overflow in Mozilla Firefox :** **[CVE-2023-4582](https://www.mozilla.org/en-US/security/advisories/mfsa2023-34/#CVE-2023-4582)**
 - **Use-After-Free in Apple Safari GPU :** **[CVE-2023-39434](https://support.apple.com/en-us/HT213940)**
-- **Information Disclosure in Apple libxslt (Works in Safari) :** **[CVE-2023-40403](https://support.apple.com/en-us/HT213940)**
+- **ASLR Bypass in Apple libxslt (Works in Safari) :** **[CVE-2023-40403](https://support.apple.com/en-us/HT213940)**
 - **Double-Free in Google Chrome SwiftShader :** **[ZDI-23-1583](https://www.zerodayinitiative.com/advisories/ZDI-23-1583/)**
 - **Heap-Buffer-Overflow Sandbox Escape in Mozilla Firefox WebGL :** **[CVE-2023-6856](https://www.mozilla.org/en-US/security/advisories/mfsa2023-56/#CVE-2023-6856)**
 
