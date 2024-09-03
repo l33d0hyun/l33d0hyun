@@ -4,7 +4,7 @@
 - Project Leader. Apple Safari Bug Hunting [A.K.A ApplePIE] (BOB 11th)
 - Project Leader. What The Fuzz (BOB 12th)
 - Project Leader. Zero Hour (White Hat School 1st)
-- Project Leader. Office Application Vulnerability Analysis [A.K.A bObffice] (BOB 12th)
+- Project Leader. Office Application Vulnerability Analysis [A.K.A bObffice] (BOB 13th)
 
 ## Work
 
