@@ -16,7 +16,7 @@
 ## Research
 
 - **Zero Day Execution([@Zerocution](https://twitter.com/Zerocution))**
-- **Undergraduate Researcher** **@** [**DNSLab, Korea University](https://dnslab.korea.ac.kr/) (2021.08 ~ 2023.02)**
+- **Undergraduate Researcher @ [DNSLab, Korea University](https://dnslab.korea.ac.kr/) (2021.08 ~ 2023.02)**
 - **Undergraduate Researcher @ [CCS, Korea University](https://ccs.korea.ac.kr/) (2023.03 ~ ??)**
 
 ## Interests
