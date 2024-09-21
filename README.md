@@ -8,16 +8,16 @@
 
 ## Work
 
-- **Security Researcher @ ??? (?? ~ ??)**
 - **Security Researcher @ [PK Security](https://pksecurity.io/) (2023.07 ~ 2023.09)** 
 - **Security Researcher @ [SSD Labs](https://ssd-disclosure.com/) (2022.05 ~ 2023.06)**
-- **Undergraduate Student Researcher @ [DNSLab, Korea University](https://dnslab.korea.ac.kr/) (2021.08 ~ Now)**
+
 
 ## Research
 
 - **Zero Day Execution([@Zerocution](https://twitter.com/Zerocution))**
 - **Undergraduate Researcher @ [DNSLab, Korea University](https://dnslab.korea.ac.kr/) (2021.08 ~ 2023.02)**
-- **Undergraduate Researcher @ [CCS, Korea University](https://ccs.korea.ac.kr/) (2023.03 ~ ??)**
+- **Undergraduate Researcher @ [CCS, Korea University](https://ccs.korea.ac.kr/) (2023.03 ~ 2024.08)**
+- **TOP Secret @ [USELab, Korea University](https://sites.google.com/view/uselab-kus) (?? ~ ??)**
 
 ## Interests
 - N-Day Research / Academic Research
