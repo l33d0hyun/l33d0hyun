@@ -8,7 +8,7 @@
 - Security Researcher @ **SSD Labs** (2022.05 ~ 2023.06)
 
 #### Education
-- Intended Ph.D. Student @ **Korea University** - Cyber Security, [USELab](https://sites.google.com/view/uselab-kus/home?authuser=0) (???)
+- Intended Ph.D. Student @ **Korea University** - [USELab](https://sites.google.com/view/uselab-kus/home?authuser=0) (???)
 - B.S. Student @ **Korea University Sejong** - A.I. Cyber Security (2021.03 ~ Now)
 - KITRI "BEST OF THE BEST" 9th Vulnerability Analysis - (2020.07.01 ~ 2021.03.26)
     - **Member. Virtualization Software Bug Hunting {Team. VirtualBoBs} [BOB 9th]**
