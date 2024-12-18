@@ -12,8 +12,11 @@
 - B.S. Student @ **Korea University Sejong** - A.I. Cyber Security (2021.03 ~ Now)
 - KITRI "BEST OF THE BEST" 9th Vulnerability Analysis - (2020.07.01 ~ 2021.03.26)
     - **Member. Virtualization Software Bug Hunting {Team. VirtualBoBs} [BOB 9th]**
+        - **Team Result : 3 CVEs (CVE-2021-2086, CVE-2021-2124, CVE-2021-2127), 3 ZDI-CAN (ZDI-CAN-12407, ZDI-CAN-12621, ZDI-CAN-12761 - Total $6,500)**
     - **Project Leader. Unreal Engine Bug Hunting {Team. GameCrashProject(GCP)} [BOB 10th]**
+        - **Team Result : Issue ID (NDA), HackerOne - Bounty $17,000**
     - **Project Leader. Apple Safari Bug Hunting {Team. ApplePIE} [BOB 11th]**
+        - **Team Result : Apple Safari (CVE-2023-23517, CVE-2023-23518, CVE-2022-46705, CVE-2022-46725)**
     - **Project Leader. CMS Fuzzing {Team. What The Fuzz} [BOB 12th]**
     - **Project Leader. V8 1-Day Analysis [White Hat School 1st]**
     - **Project Leader. Office Application Vulnerability Analysis {Team. bObffice} [BOB 13th]**
