@@ -20,9 +20,10 @@
     - **Project Leader. CMS Fuzzing {Team. What The Fuzz} [BOB 12th]**
     - **Project Leader. V8 1-Day Analysis [White Hat School 1st]**
     - **Project Leader. Office Application Vulnerability Analysis {Team. bObffice} [BOB 13th]**
+        - **Team Result : Microsoft Office (CVE-2025-21365), Microsoft Outlook (CVE-2025-21357)**
 
 #### Awards
-- **LG Electronics** Vulnerability Report Letter of Appreciation
+- **LG Electronics** Vulnerability Report **Letter of Appreciation**
 - **Microsoft MSRC** 2022 Q1 **TOP 100 Security Researcher**
 - **Mozilla** 2022 Q1 Firefox Bug Bounty Rewards **Hall of Fame**
 - **Apple** Web Service Security Acknowledgements **Hall of Fame** -November. 2022 (Donated, $10,000)
