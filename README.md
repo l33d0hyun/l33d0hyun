@@ -20,7 +20,7 @@
     - **Project Leader. CMS Fuzzing {Team. What The Fuzz} [BOB 12th]**
     - **Project Leader. V8 1-Day Analysis [White Hat School 1st]**
     - **Project Leader. Office Application Vulnerability Analysis {Team. bObffice} [BOB 13th]**
-        - **Team Result : Microsoft Office (CVE-2025-21365), Microsoft Outlook (CVE-2025-21357)**
+        - **Team Result : Microsoft Office (CVE-2025-21365), Microsoft Outlook (CVE-2025-21357) - MSRC Leaderboard Q4 (Office 2024) 9th**
 
 #### Awards
 - **LG Electronics** Vulnerability Report **Letter of Appreciation**
