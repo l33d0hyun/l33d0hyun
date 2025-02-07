@@ -33,6 +33,7 @@
 - **Apple** Web Service Security Acknowledgements **Hall of Fame** - June. 2024
 - **Mozilla** 2024 Q1 Firefox Bug Bounty Rewards **Hall of Fame**
 - **Mozilla** 2024 Q3 Firefox Bug Bounty Rewards **Hall of Fame**
+- **Mozilla** 2024 Q4 Firefox Bug Bounty Rewards **Hall of Fame**
 
 #### Speaker
 - 2022 BOB Information Security Open Conference (BISC) - **Browser Security**
