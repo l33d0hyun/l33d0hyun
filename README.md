@@ -3,6 +3,7 @@
 - My current research interest is focused on vulnerability research with LLM. I have previously worked as a vulnerability researcher at SSD Labs, PK Security, and {CONFIDENTIAL}, and my main focus was on Browser and Mobile (Android/iOS)
 
 #### Work
+- Independent Security Researcher @ **{CONFIDENTIAL}** (2025.01 ~ Now)
 - Security Researcher @ **{CONFIDENTIAL}** (2024.02 ~ 2024.09)
 - Security Researcher @ **PK Security** (2023.07 ~ 2023.09)
 - Security Researcher @ **SSD Labs** (2022.05 ~ 2023.06)
